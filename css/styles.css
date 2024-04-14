@@ -23,11 +23,11 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
-.logo-web {
-    color: #4d5ae5;
+.header-studio {
+    color: #2e2f42;
 }
 
 .menu-link {
@@ -43,6 +43,9 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: inherit;
+}
+
+.contact-block {
     font-style: normal;
 }
 
@@ -102,6 +105,7 @@ body {
     background-color: #ffffff;
 }
 .section-title {
+    text-transform: capitalize;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -137,7 +141,7 @@ body {
     background-color: #2e2f42;
 }
 
-.footer-logo-studio,
+.footer-studio,
 .footer-text {
     color: #f4f4fd;
 }
